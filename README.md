@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Abhishek, an undergrad in AI and data science.
-- 👀 I’m interested in anything tech.
-- 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate in any project at beginner level role to learn new skills.
+- 👋 Hi, I’m Abhishek, masters student majoring in AI and data science
+- I am into machine learning and data science, currently learning genai.
+- I make ai applications and agents using langchain and langgraph.
 - 📫 How to reach me: reach me at rathoreabhishek149@gmail.com
 
 <!---
